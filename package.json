@@ -1,0 +1,17 @@
+{
+  "name": "@pejalo/document-scrolling",
+  "version": "0.1.0",
+  "description": "Disable scrolling and remember position, for a modal or lightbox",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "dev": "npx serve"
+  },
+  "author": "Peter LoBue <public@pejalo.net> (https://github.com/pejalo)",
+  "license": "ISC",
+  "homepage": "https://github.com/pejalo/document-scrolling",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pejalo/document-scrolling.git"
+  }
+}
